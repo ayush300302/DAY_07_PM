@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 """
 Personal Finance Calculator for Employee Benefits Portal.
 
@@ -6,7 +6,6 @@ This module collects employee salary information and generates
 a detailed financial summary report.
 """
 
-# Constants for formatting
 LINE_DOUBLE = "════════════════════════════════════════════"
 LINE_SINGLE = "────────────────────────────────────────────"
 
